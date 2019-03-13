@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ProyectoAPPdroid</string>
+    <string name="etUser">User</string>
+    <string name="etPass">Pass</string>
+    <string name="bEntrar">Entrar</string>
+    <string name="bRegistrarse">Registrarse</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">APPdroid</string>
+    <string name="nav_header_subtitle">version Alpha</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>
